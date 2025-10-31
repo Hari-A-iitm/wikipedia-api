@@ -2,14 +2,7 @@
 
 # Wikipedia API
 
-A FastAPI application that provides Wikipedia URLs for given topics.
+A Wikipedia lookup API built with FastAPI.
 
-## Features
-- Fast Wikipedia URL lookup
-- RESTful API endpoint
-- Automated CI/CD with GitHub Actions
-
-## Deployment
-- **Hugging Face Spaces**: https://haria1026-wikipedia-lookup-api.hf.space
-
-## Usage
+## Status
+CI/CD pipeline with automated testing.
